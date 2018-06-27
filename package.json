@@ -1,0 +1,11 @@
+{
+  "name": "lib-client-elrn",
+  "version": "0.0.1",
+  "description": "elrn library",
+  "main": "index.js",
+  "repository": {
+    "type": "git"
+  },
+  "author": "Dylan Drudge",
+  "license": "ISC"
+}
